@@ -1,0 +1,2 @@
+This is the code accompanying the paper [Nonlinear Stabilization via Control Contraction Metrics: a
+Pseudospectral Approach for Computing Geodesics](https://arxiv.org/pdf/1607.04340.pdf) by Karen Leung and Ian Manchester from the Australian Center for Field Robotics. This work was published at the American Controls Conference 2017.
